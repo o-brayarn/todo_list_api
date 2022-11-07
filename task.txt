@@ -1,0 +1,8 @@
+- CRUD(todo_lists)
+- Category(category)
+
+================================================================
+
+
+
+boolean => True(1) or False(0)
